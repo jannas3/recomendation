@@ -1,5 +1,5 @@
 import streamlit as st
-scikit-learn
+
 import pandas as pd
 from math import sqrt
 from sklearn.metrics.pairwise import cosine_similarity
